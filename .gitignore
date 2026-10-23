@@ -1,0 +1,13 @@
+# Data files, secrets, and local state
+*.csv
+*.gz
+*.parquet
+*.zip
+*.log
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
+.databricks/
+.vscode/
+.DS_Store
